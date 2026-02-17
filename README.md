@@ -11,8 +11,34 @@ The "Google AI Essentials Specialization" introduces key concepts in AI and mach
 - Data analysis and model evaluation  
 - Ethical considerations in AI  
 
-Through this course, I gained hands-on experience with AI tools, completed quizzes and activities, and earned the official certificate of completion.
+🏫 Courses & Modules
 
+The specialization consists of four main courses, each covering essential topics:
+
+1. Foundations of AI
+- Introduction to Artificial Intelligence  
+- AI applications across industries  
+- Key AI terminology and concepts  
+- Ethical AI and responsible use  
+
+2. Machine Learning Basics
+- Introduction to Machine Learning  
+- Types of machine learning: supervised, unsupervised, and reinforcement learning  
+- Model training and evaluation  
+- Basic algorithms and practical examples  
+
+3. Data Analysis and Modeling
+- Data preprocessing and cleaning  
+- Feature engineering and selection  
+- Training and evaluating models  
+- Visualizing data and interpreting results  
+
+4. AI in Practice
+- Real-world applications of AI  
+- AI project lifecycle and workflows  
+- Hands-on AI projects and exercises  
+- Best practices and ethical considerations
+  
 🗂 Repository Contents
 
 - `Activities/` – All hands-on exercises and projects completed during the specialization  
